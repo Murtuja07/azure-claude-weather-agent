@@ -1,0 +1,14 @@
+anthropic
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+pydantic-settings
+python-dotenv
+azure-identity
+azure-keyvault-secrets
+pytest
+pytest-asyncio
+azure-monitor-opentelemetry
+opentelemetry-instrumentation-fastapi
+opentelemetry-instrumentation-httpx
